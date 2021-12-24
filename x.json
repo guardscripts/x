@@ -1,0 +1,80 @@
+{
+    "home": {
+      "annoucement":"test",
+      "navbar": [
+        {
+            "mode":"separator",
+            "text": "Dashboards"
+        },
+        {
+            "icon": "home",
+            "text": "Home",
+            "href": "."
+
+        },
+        {
+            "icon": "download-cloud",
+            "text": "Scripts",
+            "href": "scripts"
+
+        },
+        {
+            "mode":"separator",
+            "text": "Apps & Pages"
+        },
+        {
+            "icon": "x",
+            "text": "Status",
+            "href": "status"
+
+        },
+        {
+            "icon": "x",
+            "text": "Editor",
+            "href": "editor"
+
+        },
+        {
+            "mode":"separator",
+            "text": "Misc"
+        }
+      ],
+      "notifications":[
+        {
+          "url":"url",
+          "text":"e",
+          "title":"t"
+        },
+        {
+          "url":"url",
+          "text":"e",
+          "title":"t"
+        }
+      ],
+      "statistics":[
+        {
+          "icon":"trending-up",
+          "text":"Scripts",
+          "value":"%s"
+        },
+        {
+          "icon":"user",
+          "text":"Views",
+          "value":"*s"
+        },
+        {
+          "icon":"x",
+          "text":"test",
+          "value":"test"
+        },
+        {
+          "icon":"x",
+          "text":"test",
+          "value":"test"
+        }
+      ]
+    },
+    "settings": {
+      "maintenance":false
+    }
+  }
