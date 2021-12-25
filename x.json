@@ -1,56 +1,56 @@
 {
+  "navbar": [
+    {
+        "mode":"separator",
+        "name": "Dashboards"
+    },
+    {
+        "icon": "home", 
+        "name": "Home",
+        "url": "."
+
+    },
+    {
+        "icon": "download-cloud",
+        "name": "Scripts",
+        "url": "scripts"
+
+    },
+    {
+        "mode":"separator",
+        "name": "Apps & Pages"
+    },
+    {
+        "icon": "x",
+        "name": "Status",
+        "url": "status"
+
+    },
+    {
+        "icon": "x",
+        "name": "Editor",
+        "url": "editor"
+
+    },
+    {
+        "mode":"separator",
+        "name": "Misc"
+    }
+  ],
+  "notifications":[
+    {
+      "url":"url",
+      "name":"e",
+      "title":"t"
+    },
+    {
+      "url":"url",
+      "name":"e",
+      "title":"t"
+    }
+  ],
     "home": {
       "annoucement":"test",
-      "navbar": [
-        {
-            "mode":"separator",
-            "name": "Dashboards"
-        },
-        {
-            "icon": "home", 
-            "name": "Home",
-            "url": "."
-
-        },
-        {
-            "icon": "download-cloud",
-            "name": "Scripts",
-            "url": "scripts"
-
-        },
-        {
-            "mode":"separator",
-            "name": "Apps & Pages"
-        },
-        {
-            "icon": "x",
-            "name": "Status",
-            "url": "status"
-
-        },
-        {
-            "icon": "x",
-            "name": "Editor",
-            "url": "editor"
-
-        },
-        {
-            "mode":"separator",
-            "name": "Misc"
-        }
-      ],
-      "notifications":[
-        {
-          "url":"url",
-          "name":"e",
-          "title":"t"
-        },
-        {
-          "url":"url",
-          "name":"e",
-          "title":"t"
-        }
-      ],
       "statistics":[
         {
           "icon":"trending-up",
