@@ -4,72 +4,72 @@
       "navbar": [
         {
             "mode":"separator",
-            "text": "Dashboards"
+            "name": "Dashboards"
         },
         {
-            "icon": "home",
-            "text": "Home",
-            "href": "."
+            "icon": "home", 
+            "name": "Home",
+            "url": "."
 
         },
         {
             "icon": "download-cloud",
-            "text": "Scripts",
-            "href": "scripts"
+            "name": "Scripts",
+            "url": "scripts"
 
         },
         {
             "mode":"separator",
-            "text": "Apps & Pages"
+            "name": "Apps & Pages"
         },
         {
             "icon": "x",
-            "text": "Status",
-            "href": "status"
+            "name": "Status",
+            "url": "status"
 
         },
         {
             "icon": "x",
-            "text": "Editor",
-            "href": "editor"
+            "name": "Editor",
+            "url": "editor"
 
         },
         {
             "mode":"separator",
-            "text": "Misc"
+            "name": "Misc"
         }
       ],
       "notifications":[
         {
           "url":"url",
-          "text":"e",
+          "name":"e",
           "title":"t"
         },
         {
           "url":"url",
-          "text":"e",
+          "name":"e",
           "title":"t"
         }
       ],
       "statistics":[
         {
           "icon":"trending-up",
-          "text":"Scripts",
+          "name":"Scripts",
           "value":"%s"
         },
         {
           "icon":"user",
-          "text":"Views",
+          "name":"Views",
           "value":"*s"
         },
         {
           "icon":"x",
-          "text":"test",
+          "name":"test",
           "value":"test"
         },
         {
           "icon":"x",
-          "text":"test",
+          "name":"test",
           "value":"test"
         }
       ]
