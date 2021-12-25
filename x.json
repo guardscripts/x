@@ -1,10 +1,6 @@
 {
   "navbar": [
     {
-        "mode":"separator",
-        "name": "Dashboards"
-    },
-    {
         "icon": "home", 
         "name": "Home",
         "url": "."
@@ -17,10 +13,6 @@
 
     },
     {
-        "mode":"separator",
-        "name": "Apps & Pages"
-    },
-    {
         "icon": "x",
         "name": "Status",
         "url": "status"
@@ -31,10 +23,6 @@
         "name": "Editor",
         "url": "editor"
 
-    },
-    {
-        "mode":"separator",
-        "name": "Misc"
     }
   ],
   "notifications":[
