@@ -14,7 +14,7 @@ if syn then
 elseif WebSocket then
     ws = WebSocket.connect("ws://localhost:4544") 
 elseif KRNL_LOADED then
-    ws = Krnl.Websocket.connect("ws://localhost:4544") 
+    ws = KRNL.WebSocket.connect("ws://localhost:4544") 
 else
     unsupported = true
 end
